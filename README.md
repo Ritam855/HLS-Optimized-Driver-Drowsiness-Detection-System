@@ -7,7 +7,6 @@ A **Driver Drowsiness Detection** system has been implemented using a Convolutio
 ### 1️⃣ Execution and Conversion
 - Convert the CNN model to C using **Keras2C**.
 - Synthesize the generated C files using **Vivado HLS**.
-- Compare the synthesis results with those generated using **HLS4ml**.
 
 ### 2️⃣ Optimization and Analysis
 - Apply HLS optimization pragmas to improve the performance of the synthesized C files.
